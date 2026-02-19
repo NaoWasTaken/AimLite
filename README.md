@@ -10,9 +10,7 @@ Built with Python and pygame. No launcher, no account, no internet connection re
 
 ## Download
 
-**No Python required — just download and run.**
-
-👉 [Download AimLite.exe (latest release)](../../releases/latest)
+[Download AimLite.exe (latest release)](../../releases/latest)
 
 ---
 
