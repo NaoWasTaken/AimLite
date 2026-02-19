@@ -24,7 +24,7 @@ jobs:
 
       - name: Build EXE
         run: |
-          pyinstaller --onefile --windowed --name AimLite aim_trainer.py
+          pyinstaller --onefile --windowed --name AimLite aimlite.py
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
