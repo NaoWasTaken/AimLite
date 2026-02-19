@@ -10,9 +10,7 @@ Built with Python and pygame. No launcher, no account, no internet connection re
 
 ## Download
 
-**No Python required — just download and run.**
-
-👉 [Download AimLite.exe (latest release)](../../releases/latest)
+[Download AimLite.exe (latest release)](../../releases/latest)
 
 > **Windows SmartScreen warning:** Windows may show a "Windows protected your PC" popup the first time you run it. This happens to all unsigned executables from small developers — it does not mean the file is dangerous. Click **"More info"** → **"Run anyway"** to launch it. The source code is fully public and auditable above.
 
